@@ -19,6 +19,7 @@ Chapter 4 code_Project_24 The second part 2 of "The Arduino World Book" code_Pro
         <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/farkadadnan?label=%40farkadadnan&style=social" alt='Twitter' align="center"/>
     </a>
 </p>
+
 # Solar Tracker 
 
 ![1](https://user-images.githubusercontent.com/35774039/165189992-157f5041-7a59-476a-8fe4-b0d4b202f016.JPG)
