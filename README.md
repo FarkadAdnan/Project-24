@@ -26,3 +26,12 @@ Chapter 4 code_Project_24 The second part 2 of "The Arduino World Book" code_Pro
 
 ![single](https://user-images.githubusercontent.com/35774039/165190050-0a665dd7-efde-406e-95fb-b22993c735ef.png)
 
+# التوصيل 
+![2](https://user-images.githubusercontent.com/35774039/165214622-3d4f02de-6ca8-419d-af31-e0af4c12498c.JPG)
+
+# تصميم ثلاثي الابعاد
+
+![4](https://user-images.githubusercontent.com/35774039/165214674-8469a85e-8336-4bd6-a517-0a6748defb91.JPG)
+![3](https://user-images.githubusercontent.com/35774039/165214678-0f9498da-dc4d-46b5-b80f-c99cf4fd8fb9.JPG)
+
+
