@@ -35,3 +35,7 @@ Chapter 4 code_Project_24 The second part 2 of "The Arduino World Book" code_Pro
 ![3](https://user-images.githubusercontent.com/35774039/165214678-0f9498da-dc4d-46b5-b80f-c99cf4fd8fb9.JPG)
 
 
+![77](https://user-images.githubusercontent.com/35774039/165410389-c8edbd92-05a4-4aa5-bca2-08de20dbe66d.JPG)
+
+![7777](https://user-images.githubusercontent.com/35774039/165410394-4cafcdd1-e330-42d3-b79e-1005339e93df.JPG)
+
